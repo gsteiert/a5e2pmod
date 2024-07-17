@@ -2,6 +2,12 @@
 
 ![Picture of assembled board](assembled.jpg)
 
+## Schematic
+
+[View the schematic online in KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fgsteiert%2Fa5e2pmod%2Fblob%2Fmain%2Fa5e2pmod.kicad_sch)
+
+## Pinout
+
 |  Agilex 5         |  J9  |  PMOD  |  Micro SD  |
 | ----------------- | ---- | ------ | ---------- |
 |  3.3V             |  1   |  11,12 | 4 VDD      |
