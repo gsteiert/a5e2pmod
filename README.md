@@ -20,3 +20,11 @@
 |  BM31  HVIO_6A_8  |  8   |  7     | 5 CLK      |
 |  BR31  HVIO_6A_4  |  9   |  8     | -          |
 |  GND              |  10  |  9,10  | 6 VSS      |
+
+## PMOD
+
+![PMOD Pinout](pmod.png)
+
+## Installed
+
+![Picture of the board installed](installed.jpg)
